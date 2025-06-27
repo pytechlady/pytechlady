@@ -5,7 +5,7 @@
 - 💻 I am a full stack Engineer, with more focused on backend development.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I just want to make enough money to travel the world. 
-- 🔭 I’m currently working on population data for research and academic use.
+- 🔭 I’m currently building Trivolo an travel tool that helps people travel smarter and better.
 
 ### Tech Stack
 ![image](https://github.com/user-attachments/assets/93c02c26-50dc-41a3-9e19-3f8ac1f4a370)
